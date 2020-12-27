@@ -80,7 +80,7 @@ Para definir una transición también podemos usar directamente las sub-propieda
 
 **transition-property:** define un listado de propiedades separado por coma que podrán ser afectadas por la transición si ocurre algún cambio en su valor. Por defecto todas las propiedades podrán reaccionar.
 
-`transition-duration: background-color, width, height;`
+`transition-property: background-color, width, height;`
 
 <div  id='transition-timing-function'/>
 
